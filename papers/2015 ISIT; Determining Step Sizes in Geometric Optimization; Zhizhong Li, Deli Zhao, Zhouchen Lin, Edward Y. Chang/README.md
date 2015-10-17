@@ -23,10 +23,6 @@ accelerating computation.
 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282649
 
-#### downloads
-* [fulltext](https://github.com/innerlee/Publications/raw/master/papers/2015%20ISIT%3B%20Determining%20Step%20Sizes%20in%20Geometric%20Optimization%3B%20Zhizhong%20Li%2C%20Deli%20Zhao%2C%20Zhouchen%20Lin%2C%20Edward%20Y.%20Chang/2015%20ISIT%20-%20fulltext.pdf)
-* [codes](https://github.com/innerlee/Publications/raw/master/papers/2015%20ISIT%3B%20Determining%20Step%20Sizes%20in%20Geometric%20Optimization%3B%20Zhizhong%20Li%2C%20Deli%20Zhao%2C%20Zhouchen%20Lin%2C%20Edward%20Y.%20Chang/codes.zip)
-
 ```bibtex
 @INPROCEEDINGS{7282649, 
 author={Li, Zhizhong and Zhao, Deli and Lin, Zhouchen and Chang, Edward Y.}, 
@@ -38,3 +34,7 @@ keywords={Approximation methods;Cost function;Estimation;Heuristic algorithms;Ma
 doi={10.1109/ISIT.2015.7282649}, 
 month={June},}
 ```
+
+#### downloads
+* [fulltext](https://github.com/innerlee/Publications/raw/master/papers/2015%20ISIT%3B%20Determining%20Step%20Sizes%20in%20Geometric%20Optimization%3B%20Zhizhong%20Li%2C%20Deli%20Zhao%2C%20Zhouchen%20Lin%2C%20Edward%20Y.%20Chang/2015%20ISIT%20-%20fulltext.pdf)
+* [codes](https://github.com/innerlee/Publications/raw/master/papers/2015%20ISIT%3B%20Determining%20Step%20Sizes%20in%20Geometric%20Optimization%3B%20Zhizhong%20Li%2C%20Deli%20Zhao%2C%20Zhouchen%20Lin%2C%20Edward%20Y.%20Chang/codes.zip)
