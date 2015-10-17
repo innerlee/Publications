@@ -15,6 +15,8 @@ In numerical experiments, we apply this heuristic strategy to one of the geometr
 algorithms for matrix completion and show its feasibility and the potential in 
 accelerating computation.
 
+----
+
 *Published in:* Information Theory (ISIT), 2015 IEEE International Symposium on
 
 *Date of Conference:* 14-19 June 2015
