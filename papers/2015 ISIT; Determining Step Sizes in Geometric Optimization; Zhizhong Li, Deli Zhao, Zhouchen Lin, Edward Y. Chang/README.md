@@ -21,6 +21,8 @@ accelerating computation.
 
 *Page(s):* 1217 - 1221
 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282649
+
 ```bibtex
 @INPROCEEDINGS{7282649, 
 author={Li, Zhizhong and Zhao, Deli and Lin, Zhouchen and Chang, Edward Y.}, 
