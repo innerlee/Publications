@@ -17,11 +17,11 @@ accelerating computation.
 
 ----
 
-*Published in:* Information Theory (ISIT), 2015 IEEE International Symposium on
+Published in: Information Theory (ISIT), 2015 IEEE International Symposium on
 
-*Date of Conference:* 14-19 June 2015
+Date of Conference: 14-19 June 2015
 
-*Page(s):* 1217 - 1221
+Page(s): 1217 - 1221
 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282649
 
