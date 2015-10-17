@@ -1,4 +1,4 @@
-# Determining step sizes in geometric optimization algorithms
+# Determining Step Sizes in Geometric Optimization Algorithms
 
 Zhizhong Li, Deli Zhao, Zhouchen Lin, Edward Y. Chang
 
