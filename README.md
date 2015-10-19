@@ -1,5 +1,5 @@
 # Publications
-### Articles, Codes available here. 
+### Fulltexts, Codes available here. 
 Please click the links for details.
 
 
