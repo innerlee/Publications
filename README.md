@@ -2,7 +2,7 @@
 ### Fulltexts, Codes available here. 
 Please click the links for details.
 
-* Integrating Specialized Classifiers Based on Continuous Time Markov Chain; Zhizhong Li, Dahua Lin; 2017 IJCAI
+* [Integrating Specialized Classifiers Based on Continuous Time Markov Chain](https://www.ijcai.org/proceedings/2017/312); Zhizhong Li, Dahua Lin; 2017 IJCAI
 
 * [PolyNet: A Pursuit of Structural Diversity in Very Deep Networks](https://arxiv.org/abs/1611.05725); Xingcheng Zhang\*, Zhizhong Li\*, Chen Change Loy, Dahua Lin; 2017 CVPR
 
