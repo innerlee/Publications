@@ -2,6 +2,8 @@
 ### Fulltexts, Codes available here. 
 Please click the links for details.
 
+* [人工智能基础（高中版）](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.63a246c5nv21ax&id=568754931925&cm_id=140105335569ed55e27b&abbucket=11); 汤晓鸥,陈玉琨; Chapter 8.
+
 * [Integrating Specialized Classifiers Based on Continuous Time Markov Chain](https://www.ijcai.org/proceedings/2017/312); Zhizhong Li, Dahua Lin; 2017 IJCAI
 
 * [PolyNet: A Pursuit of Structural Diversity in Very Deep Networks](https://arxiv.org/abs/1611.05725); Xingcheng Zhang\*, Zhizhong Li\*, Chen Change Loy, Dahua Lin; 2017 CVPR
