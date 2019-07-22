@@ -2,9 +2,7 @@
 ### Fulltexts, Codes available here. 
 Please click the links for details.
 
-* Convolutional Sequence Generation for Skeleton-Based Action Synthesis, submitted.
-
-* Why Should I Accept Your Suggestion? Explainable Clothing Aesthetic Evaluation with Rule Transfer Network, submitted.
+* Convolutional Sequence Generation for Skeleton-Based Action Synthesis; Sijie Yan\*, Zhizhong Li\*, Yuanjun Xiong, Huahan Yan, Dahua Lin; ICCV 2019.
 
 * Chapter 8 of [人工智能基础（高中版）](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.63a246c5nv21ax&id=568754931925&cm_id=140105335569ed55e27b&abbucket=11); 汤晓鸥,陈玉琨; 2018
 
